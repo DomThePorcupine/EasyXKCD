@@ -4,7 +4,7 @@
 	"manifest_version": 2,
 	"name": "Easy XKCD",
 	"description": "Quickly grabs XKCD of the day and displays it! :)",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"permissions": [
 	"https://xkcd.com/"
 	],
